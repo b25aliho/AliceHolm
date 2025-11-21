@@ -9739,7 +9739,7 @@ AudioSource:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
@@ -12673,7 +12673,10 @@ MonoBehaviour:
   maxSpeed: 10
   jumpForce: 10
   spriteRenderer: {fileID: 0}
-  animator: {fileID: 0}
+  onAction2:
+    m_PersistentCalls:
+      m_Calls: []
+  animator: {fileID: 1986860991}
 --- !u!70 &1986860988
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
