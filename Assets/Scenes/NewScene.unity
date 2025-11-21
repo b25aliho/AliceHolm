@@ -119,6 +119,68 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &25161982
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 26.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &25161983 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 25161982}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &54881196
 GameObject:
   m_ObjectHideFlags: 0
@@ -297,7 +359,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &93545427
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -455,6 +517,68 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &194922207
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.48
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &194922208 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 194922207}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &197424023
 GameObject:
   m_ObjectHideFlags: 0
@@ -10171,6 +10295,68 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1001 &595901637
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &595901638 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 595901637}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &615438541
 GameObject:
   m_ObjectHideFlags: 0
@@ -10429,162 +10615,11 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &654323506
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 654323510}
-  - component: {fileID: 654323509}
-  - component: {fileID: 654323508}
-  - component: {fileID: 654323507}
-  m_Layer: 0
-  m_Name: Samla diamant
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!58 &654323507
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 654323506}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_Radius: 0.21
---- !u!114 &654323508
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 654323506}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 41f22a8df0cc32041bb57bb8918362cd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  tagToActivate: Player
-  onTriggerEnter:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 654323506}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-  onTriggerExit:
-    m_PersistentCalls:
-      m_Calls: []
---- !u!212 &654323509
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 654323506}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RayTracingAccelStructBuildFlagsOverride: 0
-  m_RayTracingAccelStructBuildFlags: 1
-  m_SmallMeshCulling: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -4332065794632645858, guid: 279ea8610de737f47a24f084b53bd519, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.42, y: 0.37}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &654323510
+--- !u!4 &654323510 stripped
 Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 6686240307787280743}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 654323506}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.88, y: -2.89, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &681267183
 GameObject:
   m_ObjectHideFlags: 0
@@ -11012,6 +11047,68 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &828758458
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 19.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.98
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &828758459 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 828758458}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &841646915
 GameObject:
   m_ObjectHideFlags: 0
@@ -11290,6 +11387,68 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1009981702
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.66
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &1009981703 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 1009981702}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1025705991
 GameObject:
   m_ObjectHideFlags: 0
@@ -11571,6 +11730,112 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1040070739}
   m_CullTransparentMesh: 1
+--- !u!1 &1169124784
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1169124785}
+  m_Layer: 0
+  m_Name: Diamanter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1169124785
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1169124784}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.3547087, y: -1.9625224, z: -0.039699648}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 654323510}
+  - {fileID: 1643160482}
+  - {fileID: 1737771267}
+  - {fileID: 1790779792}
+  - {fileID: 1009981703}
+  - {fileID: 595901638}
+  - {fileID: 1298663820}
+  - {fileID: 1331898217}
+  - {fileID: 828758459}
+  - {fileID: 1211422430}
+  - {fileID: 1664890546}
+  - {fileID: 25161983}
+  - {fileID: 194922208}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1211422429
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 23.83
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.13
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &1211422430 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 1211422429}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1267934846
 GameObject:
   m_ObjectHideFlags: 0
@@ -11658,6 +11923,130 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1298663819
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 20.37
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &1298663820 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 1298663819}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1331898216
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 25.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.99
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &1331898217 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 1331898216}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1406057772
 GameObject:
   m_ObjectHideFlags: 0
@@ -12039,6 +12428,68 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1643160481
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &1643160482 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 1643160481}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1643315293
 GameObject:
   m_ObjectHideFlags: 0
@@ -12126,6 +12577,68 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1001 &1664890545
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 21.67
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &1664890546 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 1664890545}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1676067250
 GameObject:
   m_ObjectHideFlags: 0
@@ -12349,6 +12862,68 @@ RectTransform:
   m_AnchoredPosition: {x: -215, y: -199.6}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1001 &1737771266
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &1737771267 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 1737771266}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1738191071
 GameObject:
   m_ObjectHideFlags: 0
@@ -12529,6 +13104,68 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1790779791
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+--- !u!4 &1790779792 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+  m_PrefabInstance: {fileID: 1790779791}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1800689518
 GameObject:
   m_ObjectHideFlags: 0
@@ -13583,15 +14220,72 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &6686240307787280743
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1169124785}
+    m_Modifications:
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.039699648
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3343552530082150381, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3573198248606915641, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
+      propertyPath: m_Name
+      value: Samla diamant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ef5cf55c28ebce439b3cb45a74c6701, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 619394802}
+  - {fileID: 1169124785}
   - {fileID: 1986860993}
   - {fileID: 93545428}
   - {fileID: 1432472119}
-  - {fileID: 654323510}
   - {fileID: 1800689519}
   - {fileID: 1025705994}
   - {fileID: 252534132}
